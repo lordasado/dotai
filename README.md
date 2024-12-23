@@ -3,6 +3,7 @@
 This folder contains AI-assisted development tools for improving code quality and consistency.
 
 https://x.com/zbeyens/status/1834764118890369259
+https://x.com/zbeyens/status/1832079140083687671
 
 ## How to use?
 
