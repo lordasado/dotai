@@ -8,7 +8,7 @@ This folder contains AI-assisted development tools for improving code quality an
 - Create a `.ai` folder in your repository
 - Move the content of this template into the `.ai` folder
 
-### Add to an Existing Project
+#### Or add to an Existing Project
 
 - You can import this into an existing project and keep it in sync by adding it as a submodule.
 - The command creates a submodule and also the `.ai` folder.
