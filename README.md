@@ -11,7 +11,7 @@ This folder contains AI-assisted development tools for improving code quality an
 ### Add to an Existing Project
 
 - You can import this into an existing project and keep it in sync by adding it as a submodule.
-- The command create a submodule and also the `.ai` folder.
+- The command creates a submodule and also the `.ai` folder.
 ```bash
   git submodule add git@github.com:udecode/dotai.git .ai
   ```
